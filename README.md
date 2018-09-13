@@ -1,1 +1,2 @@
 # Licence-reservation-system
+This project builds a simple booking system for a driving license test and provides us all necessary information regarding driving rules and a practice test. The reservation system works for registered users where each user can log-in and pick a date and slot for their driving license test. The project is built on pages written using HTML, JSP and Servlets. Also employed TCP/IP and RMI for various parts of the project. All the user information stays in a database.
